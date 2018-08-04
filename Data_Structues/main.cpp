@@ -14,6 +14,7 @@
 
 using namespace std;
 
+
 int first_non_repeating(int *arr, int n){
     for (int i = 0; i < n; i++) {
         int j;
